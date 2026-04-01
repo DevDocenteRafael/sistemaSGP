@@ -1,7 +1,7 @@
 algoritmo "Nome do Programa"
 //
 var
-valorDigitado : real
+valorDigitado : inteiro
 soma : real
 inicio
 soma <-0
